@@ -1,4 +1,3 @@
 # Deutsch
 
-This repository contains is created just for using Github pages hosting
-capabilities.
+This repository is just created for using Github pages hosting capabilities.
